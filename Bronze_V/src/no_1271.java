@@ -17,5 +17,6 @@ public class no_1271 {
         sc.close();
         System.out.println(money.divide(number));
         System.out.println(money.remainder(number));
+
     }
 }
